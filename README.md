@@ -1,4 +1,4 @@
-# Real Estate Price Prediction (Bangalore)
+# Real Estate Price Prediction
 
 ## Overview
 This project predicts real estate prices in Bangalore. It uses a dataset from Kaggle containing various features like location, size, total square footage, number of bathrooms, and balconies. It walks through the end-to-end process of building a machine learning model, covering data loading, data cleaning, feature engineering, outlier removal, model building/tuning using GridSearchCV, and exporting the trained model.
